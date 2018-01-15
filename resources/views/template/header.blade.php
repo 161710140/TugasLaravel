@@ -21,3 +21,15 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+<div class="container marketing">
+
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-md-7">
+          <img class="img-circle" src="3.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+        </div><!-- /.col-lg-4 -->
+        <div class="col-md-7">
+          <img class="img-circle" src="2.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+          <h2></h2>
+          <p></p>
+        </div><!-- /.col-lg-4 -->
