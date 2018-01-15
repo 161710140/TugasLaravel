@@ -9,7 +9,7 @@
 <body>
 <div class="jumbotron">
         <h1>DO U NO DA WEI</h1>
-        <p>SHO ME DA WEI TO UGANDA BRUDDAS.</p>
+        <p>SHO ME DA WEI TO UGANDA BRUDDAS.<br></p>
       </div>
 </body>
 </html>
